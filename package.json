@@ -1,0 +1,25 @@
+{
+  "name": "MQTT_0to1",
+  "version": "1.0.0",
+  "description": "練習mqtt的專案",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frenkieli/MQTT_0to1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frenkieli/MQTT_0to1/issues"
+  },
+  "homepage": "https://github.com/Frenkieli/MQTT_0to1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mqtt": "^3.0.0",
+    "socket.io": "^2.3.0"
+  }
+}

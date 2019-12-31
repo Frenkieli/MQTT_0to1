@@ -18,7 +18,7 @@ https://swf.com.tw/?p=1007
 
 https://swf.com.tw/?p=1009
 
-五 https://swf.com.tw/?p=1015
+五 「保留」發布訊息以及QoS品質設定
 
 https://swf.com.tw/?p=1015
 
